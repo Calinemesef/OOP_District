@@ -1,0 +1,940 @@
+Das Distrikt mit dem Nr: 3146 von dem Koordinaten: -118.51, 35.16 hat folgende Eigenschaften:
+housing_median_age: 7.0
+total_rooms: 4371.0
+total_bedrooms: 727.0
+population: 1932.0
+households: 654.0
+median_income: 4625.0
+median_house_value: 136800.0
+ocean_proximity: INLAND
+
+Das Distrikt mit dem Nr: 3476 von dem Koordinaten: -118.52, 34.32 hat folgende Eigenschaften:
+housing_median_age: 18.0
+total_rooms: 7498.0
+total_bedrooms: 976.0
+population: 3189.0
+households: 955.0
+median_income: 8.1248
+median_house_value: 374000.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3477 von dem Koordinaten: -118.51, 34.3 hat folgende Eigenschaften:
+housing_median_age: 24.0
+total_rooms: 6145.0
+total_bedrooms: 868.0
+population: 2710.0
+households: 875.0
+median_income: 7.5078
+median_house_value: 344000.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3478 von dem Koordinaten: -118.51, 34.28 hat folgende Eigenschaften:
+housing_median_age: 29.0
+total_rooms: 4239.0
+total_bedrooms: 653.0
+population: 1890.0
+households: 631.0
+median_income: 6.3911
+median_house_value: 301700.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3479 von dem Koordinaten: -118.51, 34.29 hat folgende Eigenschaften:
+housing_median_age: 29.0
+total_rooms: 1287.0
+total_bedrooms: 194.0
+population: 525.0
+households: 187.0
+median_income: 6.4171
+median_house_value: 319300.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3480 von dem Koordinaten: -118.52, 34.29 hat folgende Eigenschaften:
+housing_median_age: 28.0
+total_rooms: 2272.0
+total_bedrooms: 320.0
+population: 868.0
+households: 312.0
+median_income: 7.7464
+median_house_value: 474600.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3481 von dem Koordinaten: -118.52, 34.3 hat folgende Eigenschaften:
+housing_median_age: 17.0
+total_rooms: 4542.0
+total_bedrooms: 621.0
+population: 2144.0
+households: 597.0
+median_income: 8.8467
+median_house_value: 450700.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3523 von dem Koordinaten: -118.51, 34.28 hat folgende Eigenschaften:
+housing_median_age: 34.0
+total_rooms: 3580.0
+total_bedrooms: 565.0
+population: 1694.0
+households: 524.0
+median_income: 5.4065
+median_house_value: 243800.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3524 von dem Koordinaten: -118.52, 34.28 hat folgende Eigenschaften:
+housing_median_age: 33.0
+total_rooms: 1975.0
+total_bedrooms: 271.0
+population: 801.0
+households: 287.0
+median_income: 7.8193
+median_house_value: 379600.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3525 von dem Koordinaten: -118.51, 34.27 hat folgende Eigenschaften:
+housing_median_age: 34.0
+total_rooms: 3787.0
+total_bedrooms: 771.0
+population: 1966.0
+households: 738.0
+median_income: 4055.0
+median_house_value: 222500.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3526 von dem Koordinaten: -118.51, 34.27 hat folgende Eigenschaften:
+housing_median_age: 36.0
+total_rooms: 2276.0
+total_bedrooms: 429.0
+population: 1001.0
+households: 419.0
+median_income: 4.1042
+median_house_value: 252100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3527 von dem Koordinaten: -118.52, 34.27 hat folgende Eigenschaften:
+housing_median_age: 36.0
+total_rooms: 3204.0
+total_bedrooms: 538.0
+population: 1499.0
+households: 499.0
+median_income: 5.5649
+median_house_value: 271200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3528 von dem Koordinaten: -118.53, 34.27 hat folgende Eigenschaften:
+housing_median_age: 32.0
+total_rooms: 1931.0
+total_bedrooms: 298.0
+population: 948.0
+households: 314.0
+median_income: 5.3847
+median_house_value: 329200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3532 von dem Koordinaten: -118.53, 34.27 hat folgende Eigenschaften:
+housing_median_age: 33.0
+total_rooms: 1927.0
+total_bedrooms: 305.0
+population: 896.0
+households: 293.0
+median_income: 5634.0
+median_house_value: 320500.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3537 von dem Koordinaten: -118.52, 34.26 hat folgende Eigenschaften:
+housing_median_age: 21.0
+total_rooms: 8850.0
+total_bedrooms: 2139.0
+population: 4717.0
+households: 1979.0
+median_income: 3.7816
+median_house_value: 254200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3538 von dem Koordinaten: -118.51, 34.26 hat folgende Eigenschaften:
+housing_median_age: 29.0
+total_rooms: 2472.0
+total_bedrooms: 354.0
+population: 1109.0
+households: 397.0
+median_income: 5.5433
+median_house_value: 332500.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3539 von dem Koordinaten: -118.52, 34.25 hat folgende Eigenschaften:
+housing_median_age: 11.0
+total_rooms: 7849.0
+total_bedrooms: 1664.0
+population: 3561.0
+households: 1500.0
+median_income: 4.6625
+median_house_value: 290900.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3571 von dem Koordinaten: -118.51, 34.25 hat folgende Eigenschaften:
+housing_median_age: 24.0
+total_rooms: 4338.0
+total_bedrooms: 558.0
+population: 1514.0
+households: 549.0
+median_income: 8.8612
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3572 von dem Koordinaten: -118.51, 34.24 hat folgende Eigenschaften:
+housing_median_age: 31.0
+total_rooms: 5297.0
+total_bedrooms: 664.0
+population: 1986.0
+households: 657.0
+median_income: 8.6454
+median_house_value: 483500.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3573 von dem Koordinaten: -118.51, 34.23 hat folgende Eigenschaften:
+housing_median_age: 36.0
+total_rooms: 3324.0
+total_bedrooms: 448.0
+population: 1190.0
+households: 423.0
+median_income: 7.2772
+median_house_value: 477200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3574 von dem Koordinaten: -118.52, 34.24 hat folgende Eigenschaften:
+housing_median_age: 6.0
+total_rooms: 3218.0
+total_bedrooms: 949.0
+population: 2295.0
+households: 876.0
+median_income: 3.0926
+median_house_value: 418500.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3575 von dem Koordinaten: -118.52, 34.23 hat folgende Eigenschaften:
+housing_median_age: 35.0
+total_rooms: 1471.0
+total_bedrooms: 210.0
+population: 735.0
+households: 219.0
+median_income: 8.3841
+median_house_value: 472200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3576 von dem Koordinaten: -118.53, 34.25 hat folgende Eigenschaften:
+housing_median_age: 20.0
+total_rooms: 6331.0
+total_bedrooms: 1537.0
+population: 2957.0
+households: 1509.0
+median_income: 3.3892
+median_house_value: 323100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3578 von dem Koordinaten: -118.53, 34.24 hat folgende Eigenschaften:
+housing_median_age: 24.0
+total_rooms: 2718.0
+total_bedrooms: 719.0
+population: 3018.0
+households: 644.0
+median_income: 2.9076
+median_house_value: 275300.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3580 von dem Koordinaten: -118.53, 34.23 hat folgende Eigenschaften:
+housing_median_age: 27.0
+total_rooms: 2131.0
+total_bedrooms: 543.0
+population: 1065.0
+households: 528.0
+median_income: 3.2404
+median_house_value: 230400.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3584 von dem Koordinaten: -118.51, 34.23 hat folgende Eigenschaften:
+housing_median_age: 27.0
+total_rooms: 4580.0
+total_bedrooms: 918.0
+population: 2252.0
+households: 850.0
+median_income: 4.7926
+median_house_value: 454400.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3585 von dem Koordinaten: -118.52, 34.22 hat folgende Eigenschaften:
+housing_median_age: 21.0
+total_rooms: 4617.0
+total_bedrooms: 1101.0
+population: 2891.0
+households: 1031.0
+median_income: 3.2289
+median_house_value: 318100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3586 von dem Koordinaten: -118.53, 34.23 hat folgende Eigenschaften:
+housing_median_age: 32.0
+total_rooms: 4039.0
+total_bedrooms: 984.0
+population: 2675.0
+households: 941.0
+median_income: 3.0321
+median_house_value: 240000.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3876 von dem Koordinaten: -118.51, 34.22 hat folgende Eigenschaften:
+housing_median_age: 36.0
+total_rooms: 2794.0
+total_bedrooms: 523.0
+population: 1334.0
+households: 472.0
+median_income: 4.3462
+median_house_value: 222100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3879 von dem Koordinaten: -118.51, 34.22 hat folgende Eigenschaften:
+housing_median_age: 36.0
+total_rooms: 1952.0
+total_bedrooms: 387.0
+population: 1156.0
+households: 392.0
+median_income: 4185.0
+median_house_value: 209200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3880 von dem Koordinaten: -118.51, 34.21 hat folgende Eigenschaften:
+housing_median_age: 36.0
+total_rooms: 2396.0
+total_bedrooms: 421.0
+population: 1064.0
+households: 398.0
+median_income: 4.7
+median_house_value: 223600.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3881 von dem Koordinaten: -118.51, 34.22 hat folgende Eigenschaften:
+housing_median_age: 36.0
+total_rooms: 1493.0
+total_bedrooms: 285.0
+population: 766.0
+households: 272.0
+median_income: 4.8646
+median_house_value: 213200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3882 von dem Koordinaten: -118.52, 34.22 hat folgende Eigenschaften:
+housing_median_age: 35.0
+total_rooms: 1275.0
+total_bedrooms: 222.0
+population: 959.0
+households: 226.0
+median_income: 5.0282
+median_house_value: 195400.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3883 von dem Koordinaten: -118.52, 34.22 hat folgende Eigenschaften:
+housing_median_age: 35.0
+total_rooms: 1620.0
+total_bedrooms: 272.0
+population: 1052.0
+households: 248.0
+median_income: 5.5209
+median_house_value: 203300.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3884 von dem Koordinaten: -118.52, 34.21 hat folgende Eigenschaften:
+housing_median_age: 36.0
+total_rooms: 2394.0
+total_bedrooms: 424.0
+population: 1490.0
+households: 427.0
+median_income: 4.3261
+median_house_value: 206700.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3885 von dem Koordinaten: -118.52, 34.21 hat folgende Eigenschaften:
+housing_median_age: 34.0
+total_rooms: 1663.0
+total_bedrooms: 299.0
+population: 762.0
+households: 282.0
+median_income: 5.1265
+median_house_value: 211000.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3886 von dem Koordinaten: -118.53, 34.22 hat folgende Eigenschaften:
+housing_median_age: 29.0
+total_rooms: 4101.0
+total_bedrooms: 849.0
+population: 2630.0
+households: 867.0
+median_income: 4.6607
+median_house_value: 199800.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3887 von dem Koordinaten: -118.53, 34.21 hat folgende Eigenschaften:
+housing_median_age: 18.0
+total_rooms: 3124.0
+total_bedrooms: 796.0
+population: 1855.0
+households: 725.0
+median_income: 2.9389
+median_house_value: 213200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3894 von dem Koordinaten: -118.52, 34.2 hat folgende Eigenschaften:
+housing_median_age: 35.0
+total_rooms: 2891.0
+total_bedrooms: 594.0
+population: 1757.0
+households: 581.0
+median_income: 4.3571
+median_house_value: 199800.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3895 von dem Koordinaten: -118.53, 34.2 hat folgende Eigenschaften:
+housing_median_age: 33.0
+total_rooms: 3270.0
+total_bedrooms: 818.0
+population: 2118.0
+households: 763.0
+median_income: 3225.0
+median_house_value: 205300.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3897 von dem Koordinaten: -118.51, 34.2 hat folgende Eigenschaften:
+housing_median_age: 35.0
+total_rooms: 1614.0
+total_bedrooms: 308.0
+population: 850.0
+households: 330.0
+median_income: 4.1806
+median_house_value: 209000.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3898 von dem Koordinaten: -118.51, 34.2 hat folgende Eigenschaften:
+housing_median_age: 37.0
+total_rooms: 2066.0
+total_bedrooms: 434.0
+population: 1031.0
+households: 414.0
+median_income: 4.0924
+median_house_value: 188400.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3899 von dem Koordinaten: -118.52, 34.21 hat folgende Eigenschaften:
+housing_median_age: 36.0
+total_rooms: 1328.0
+total_bedrooms: 287.0
+population: 823.0
+households: 273.0
+median_income: 4.5648
+median_house_value: 193700.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3901 von dem Koordinaten: -118.51, 34.2 hat folgende Eigenschaften:
+housing_median_age: 33.0
+total_rooms: 2327.0
+total_bedrooms: 479.0
+population: 1166.0
+households: 472.0
+median_income: 4.2344
+median_house_value: 262500.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3902 von dem Koordinaten: -118.51, 34.2 hat folgende Eigenschaften:
+housing_median_age: 34.0
+total_rooms: 2871.0
+total_bedrooms: 581.0
+population: 1350.0
+households: 535.0
+median_income: 3.7049
+median_house_value: 227500.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3903 von dem Koordinaten: -118.51, 34.19 hat folgende Eigenschaften:
+housing_median_age: 35.0
+total_rooms: 2537.0
+total_bedrooms: 418.0
+population: 1161.0
+households: 421.0
+median_income: 5.3028
+median_house_value: 229200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3904 von dem Koordinaten: -118.51, 34.19 hat folgende Eigenschaften:
+housing_median_age: 38.0
+total_rooms: 2182.0
+total_bedrooms: 409.0
+population: 1141.0
+households: 379.0
+median_income: 4.2865
+median_house_value: 221100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3908 von dem Koordinaten: -118.52, 34.2 hat folgende Eigenschaften:
+housing_median_age: 19.0
+total_rooms: 4315.0
+total_bedrooms: 1304.0
+population: 2490.0
+households: 1222.0
+median_income: 2.6437
+median_house_value: 195000.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3909 von dem Koordinaten: -118.52, 34.2 hat folgende Eigenschaften:
+housing_median_age: 37.0
+total_rooms: 1795.0
+total_bedrooms: 346.0
+population: 1082.0
+households: 354.0
+median_income: 4.9102
+median_house_value: 207200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3910 von dem Koordinaten: -118.53, 34.2 hat folgende Eigenschaften:
+housing_median_age: 26.0
+total_rooms: 2221.0
+total_bedrooms: 662.0
+population: 1998.0
+households: 603.0
+median_income: 2.8701
+median_house_value: 191100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3914 von dem Koordinaten: -118.52, 34.19 hat folgende Eigenschaften:
+housing_median_age: 42.0
+total_rooms: 881.0
+total_bedrooms: 170.0
+population: 464.0
+households: 163.0
+median_income: 2.9511
+median_house_value: 203900.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3915 von dem Koordinaten: -118.52, 34.19 hat folgende Eigenschaften:
+housing_median_age: 37.0
+total_rooms: 1560.0
+total_bedrooms: 275.0
+population: 763.0
+households: 284.0
+median_income: 3.8516
+median_house_value: 206900.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3916 von dem Koordinaten: -118.52, 34.19 hat folgende Eigenschaften:
+housing_median_age: 37.0
+total_rooms: 1892.0
+total_bedrooms: 347.0
+population: 1039.0
+households: 343.0
+median_income: 4.8295
+median_house_value: 212100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3917 von dem Koordinaten: -118.53, 34.19 hat folgende Eigenschaften:
+housing_median_age: 32.0
+total_rooms: 2618.0
+total_bedrooms: 692.0
+population: 1961.0
+households: 633.0
+median_income: 2625.0
+median_house_value: 192300.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3918 von dem Koordinaten: -118.52, 34.18 hat folgende Eigenschaften:
+housing_median_age: 34.0
+total_rooms: 2307.0
+total_bedrooms: 388.0
+population: 1168.0
+households: 427.0
+median_income: 4.2143
+median_house_value: 245400.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 3919 von dem Koordinaten: -118.53, 34.18 hat folgende Eigenschaften:
+housing_median_age: 26.0
+total_rooms: 4175.0
+total_bedrooms: 885.0
+population: 2118.0
+households: 778.0
+median_income: 4.2083
+median_house_value: 240300.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4020 von dem Koordinaten: -118.51, 34.18 hat folgende Eigenschaften:
+housing_median_age: 37.0
+total_rooms: 1893.0
+total_bedrooms: 365.0
+population: 911.0
+households: 324.0
+median_income: 4.8036
+median_house_value: 295300.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4021 von dem Koordinaten: -118.51, 34.17 hat folgende Eigenschaften:
+housing_median_age: 31.0
+total_rooms: 3252.0
+total_bedrooms: 834.0
+population: 1411.0
+households: 760.0
+median_income: 3.1885
+median_house_value: 219000.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4022 von dem Koordinaten: -118.52, 34.18 hat folgende Eigenschaften:
+housing_median_age: 43.0
+total_rooms: 1700.0
+total_bedrooms: 380.0
+population: 930.0
+households: 349.0
+median_income: 3675.0
+median_house_value: 213100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4023 von dem Koordinaten: -118.52, 34.18 hat folgende Eigenschaften:
+housing_median_age: 46.0
+total_rooms: 2082.0
+total_bedrooms: 438.0
+population: 1047.0
+households: 393.0
+median_income: 3.6534
+median_house_value: 216000.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4024 von dem Koordinaten: -118.52, 34.18 hat folgende Eigenschaften:
+housing_median_age: 42.0
+total_rooms: 1611.0
+total_bedrooms: 410.0
+population: 879.0
+households: 386.0
+median_income: 3.1923
+median_house_value: 221800.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4025 von dem Koordinaten: -118.53, 34.17 hat folgende Eigenschaften:
+housing_median_age: 18.0
+total_rooms: 6430.0
+total_bedrooms: 1412.0
+population: 2897.0
+households: 1348.0
+median_income: 3855.0
+median_house_value: 243800.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4030 von dem Koordinaten: -118.53, 34.18 hat folgende Eigenschaften:
+housing_median_age: 16.0
+total_rooms: 7194.0
+total_bedrooms: 1976.0
+population: 3687.0
+households: 1894.0
+median_income: 3.1887
+median_house_value: 189300.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4035 von dem Koordinaten: -118.52, 34.17 hat folgende Eigenschaften:
+housing_median_age: 20.0
+total_rooms: 17377.0
+total_bedrooms: 4457.0
+population: 7450.0
+households: 4204.0
+median_income: 3.2154
+median_house_value: 259600.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4036 von dem Koordinaten: -118.52, 34.16 hat folgende Eigenschaften:
+housing_median_age: 39.0
+total_rooms: 2693.0
+total_bedrooms: 478.0
+population: 1219.0
+households: 435.0
+median_income: 5.17
+median_house_value: 335400.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4037 von dem Koordinaten: -118.53, 34.16 hat folgende Eigenschaften:
+housing_median_age: 32.0
+total_rooms: 3554.0
+total_bedrooms: 762.0
+population: 1623.0
+households: 750.0
+median_income: 3.6141
+median_house_value: 290600.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4038 von dem Koordinaten: -118.51, 34.16 hat folgende Eigenschaften:
+housing_median_age: 23.0
+total_rooms: 11154.0
+total_bedrooms: 1995.0
+population: 4076.0
+households: 1809.0
+median_income: 5.4609
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4047 von dem Koordinaten: -118.51, 34.14 hat folgende Eigenschaften:
+housing_median_age: 28.0
+total_rooms: 6748.0
+total_bedrooms: 904.0
+population: 2431.0
+households: 876.0
+median_income: 12.8879
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 4048 von dem Koordinaten: -118.53, 34.14 hat folgende Eigenschaften:
+housing_median_age: 28.0
+total_rooms: 6920.0
+total_bedrooms: 906.0
+population: 2515.0
+households: 860.0
+median_income: 9.2189
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 5259 von dem Koordinaten: -118.51, 34.11 hat folgende Eigenschaften:
+housing_median_age: 29.0
+total_rooms: 9013.0
+total_bedrooms: 1117.0
+population: 2919.0
+households: 1061.0
+median_income: 13947.0
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 5261 von dem Koordinaten: -118.53, 34.09 hat folgende Eigenschaften:
+housing_median_age: 37.0
+total_rooms: 5477.0
+total_bedrooms: 833.0
+population: 1925.0
+households: 757.0
+median_income: 8.1888
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 5262 von dem Koordinaten: -118.52, 34.05 hat folgende Eigenschaften:
+housing_median_age: 45.0
+total_rooms: 1814.0
+total_bedrooms: 325.0
+population: 709.0
+households: 311.0
+median_income: 4825.0
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 5263 von dem Koordinaten: -118.52, 34.04 hat folgende Eigenschaften:
+housing_median_age: 47.0
+total_rooms: 1985.0
+total_bedrooms: 315.0
+population: 819.0
+households: 340.0
+median_income: 6.5147
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 5271 von dem Koordinaten: -118.52, 34.04 hat folgende Eigenschaften:
+housing_median_age: 42.0
+total_rooms: 993.0
+total_bedrooms: 130.0
+population: 368.0
+households: 134.0
+median_income: 10.8082
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 5272 von dem Koordinaten: -118.52, 34.04 hat folgende Eigenschaften:
+housing_median_age: 43.0
+total_rooms: 2167.0
+total_bedrooms: 254.0
+population: 761.0
+households: 256.0
+median_income: 13.6842
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 5273 von dem Koordinaten: -118.53, 34.04 hat folgende Eigenschaften:
+housing_median_age: 45.0
+total_rooms: 1711.0
+total_bedrooms: 264.0
+population: 735.0
+households: 261.0
+median_income: 9.1078
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 5274 von dem Koordinaten: -118.53, 34.03 hat folgende Eigenschaften:
+housing_median_age: 40.0
+total_rooms: 4350.0
+total_bedrooms: 763.0
+population: 1551.0
+households: 665.0
+median_income: 7.0318
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 5277 von dem Koordinaten: -118.51, 34.04 hat folgende Eigenschaften:
+housing_median_age: 38.0
+total_rooms: 4715.0
+total_bedrooms: 691.0
+population: 1660.0
+households: 637.0
+median_income: 10.1882
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 8882 von dem Koordinaten: -118.51, 34.04 hat folgende Eigenschaften:
+housing_median_age: 40.0
+total_rooms: 1382.0
+total_bedrooms: 167.0
+population: 483.0
+households: 178.0
+median_income: 11.7045
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 8886 von dem Koordinaten: -118.51, 34.03 hat folgende Eigenschaften:
+housing_median_age: 37.0
+total_rooms: 4072.0
+total_bedrooms: 905.0
+population: 1468.0
+households: 923.0
+median_income: 3.8571
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 8887 von dem Koordinaten: -118.52, 34.02 hat folgende Eigenschaften:
+housing_median_age: 24.0
+total_rooms: 7418.0
+total_bedrooms: 1755.0
+population: 2713.0
+households: 1577.0
+median_income: 5.0867
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 8893 von dem Koordinaten: -118.52, 34.01 hat folgende Eigenschaften:
+housing_median_age: 25.0
+total_rooms: 2757.0
+total_bedrooms: 738.0
+population: 1014.0
+households: 633.0
+median_income: 3.1433
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9150 von dem Koordinaten: -118.52, 34.44 hat folgende Eigenschaften:
+housing_median_age: 26.0
+total_rooms: 934.0
+total_bedrooms: 148.0
+population: 519.0
+households: 162.0
+median_income: 5.3209
+median_house_value: 185000.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9151 von dem Koordinaten: -118.53, 34.44 hat folgende Eigenschaften:
+housing_median_age: 19.0
+total_rooms: 3013.0
+total_bedrooms: 507.0
+population: 1356.0
+households: 484.0
+median_income: 5.1163
+median_house_value: 233200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9152 von dem Koordinaten: -118.53, 34.45 hat folgende Eigenschaften:
+housing_median_age: 26.0
+total_rooms: 828.0
+total_bedrooms: 149.0
+population: 508.0
+households: 158.0
+median_income: 5.2374
+median_house_value: 185500.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9153 von dem Koordinaten: -118.53, 34.44 hat folgende Eigenschaften:
+housing_median_age: 19.0
+total_rooms: 1285.0
+total_bedrooms: 195.0
+population: 650.0
+households: 193.0
+median_income: 6.0398
+median_house_value: 217800.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9154 von dem Koordinaten: -118.52, 34.46 hat folgende Eigenschaften:
+housing_median_age: 5.0
+total_rooms: 15341.0
+total_bedrooms: 2527.0
+population: 7270.0
+households: 2320.0
+median_income: 6.1281
+median_house_value: 236200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9155 von dem Koordinaten: -118.53, 34.45 hat folgende Eigenschaften:
+housing_median_age: 10.0
+total_rooms: 5509.0
+total_bedrooms: 969.0
+population: 3002.0
+households: 959.0
+median_income: 5.5981
+median_house_value: 220100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9156 von dem Koordinaten: -118.51, 34.43 hat folgende Eigenschaften:
+housing_median_age: 15.0
+total_rooms: 8510.0
+total_bedrooms: 1258.0
+population: 3733.0
+households: 1233.0
+median_income: 6.1082
+median_house_value: 253700.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9174 von dem Koordinaten: -118.52, 34.39 hat folgende Eigenschaften:
+housing_median_age: 21.0
+total_rooms: 5477.0
+total_bedrooms: 1275.0
+population: 3384.0
+households: 1222.0
+median_income: 3.6625
+median_house_value: 228100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9175 von dem Koordinaten: -118.53, 34.38 hat folgende Eigenschaften:
+housing_median_age: 18.0
+total_rooms: 2288.0
+total_bedrooms: 607.0
+population: 2305.0
+households: 597.0
+median_income: 3227.0
+median_house_value: 136100.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9177 von dem Koordinaten: -118.52, 34.4 hat folgende Eigenschaften:
+housing_median_age: 5.0
+total_rooms: 7748.0
+total_bedrooms: 1557.0
+population: 4768.0
+households: 1393.0
+median_income: 5305.0
+median_house_value: 311200.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9178 von dem Koordinaten: -118.53, 34.37 hat folgende Eigenschaften:
+housing_median_age: 8.0
+total_rooms: 3839.0
+total_bedrooms: 852.0
+population: 1342.0
+households: 593.0
+median_income: 3.9118
+median_house_value: 333700.0
+ocean_proximity: <1H OCEAN
+
+Das Distrikt mit dem Nr: 9180 von dem Koordinaten: -118.52, 34.36 hat folgende Eigenschaften:
+housing_median_age: 5.0
+total_rooms: 4222.0
+total_bedrooms: 712.0
+population: 2024.0
+households: 646.0
+median_income: 5.8703
+median_house_value: 500001.0
+ocean_proximity: <1H OCEAN
+
